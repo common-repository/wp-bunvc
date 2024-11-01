@@ -1,0 +1,16 @@
+<?php
+
+/**
+ * Provide a public-facing view for the plugin
+ *
+ * This file is used to markup the public-facing aspects of the plugin.
+ *
+ * @link       https://www.coffee-break-designs.com/production/wp-bunvc/
+ * @since      1.0.0
+ *
+ * @package    Wp_bunvc
+ * @subpackage Wp_bunvc/public/partials
+ */
+?>
+
+<!-- This file should primarily consist of HTML with a little bit of PHP. -->
